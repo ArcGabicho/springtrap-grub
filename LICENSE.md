@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Noodles Services
+Copyright (c) 2026 ArcGabicho
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
