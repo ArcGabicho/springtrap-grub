@@ -1,6 +1,6 @@
 # Springtrap GRUB Theme 
 
-![Portada]()
+![Portada](./preview.png)
 
 Este es un tema personalizado de GRUB inspirado en Springtrap de Five Nights at Freddy's, diseñado para resoluciones 1920x1200 (16:10).
 
